@@ -1,3 +1,9 @@
+I finished this tutorial! 9/6/23
+
+👩🏼‍🚀👨🏿‍🚀🧑‍🚀👩🏾‍🚀
+
+---
+
 # Astro Starter Kit: Minimal
 
 ```
